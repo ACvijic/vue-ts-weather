@@ -1,5 +1,7 @@
 # vue-ts-weather
 
+A test weather app, built with Vue and TypeScript.
+
 ## Project setup
 ```
 npm install
